@@ -6,7 +6,8 @@ Contributor Guide
 .. note::
    This document assumes some familiarity with contributing to open source
    scientific Python projects using GitHub pull requests. If this does not
-   describe you, you may first want to see the :ref:`contributing_faq`.
+   describe you, you may first want to see the `contributing_faq
+   <https://github.com/networkx/networkx/blob/main/doc/developer/new_contributor_faq.rst>`_.
 
 .. _dev_workflow:
 
